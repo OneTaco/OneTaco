@@ -1,5 +1,0 @@
-how to compile:
-$make
-after make,system will generate a file called ObjectManager.
-how to run:
-$./ObjectManager
